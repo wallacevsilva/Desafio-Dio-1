@@ -2,7 +2,7 @@
 
 ## 💡 Desafio DIO: Machine Learning No-Code
 
-*previsão de estoque de camisas de times de futebol** utilizando o **Amazon SageMaker Canvas**, uma ferramenta de Machine Learning **no-code** da AWS.
+*previsão de estoque de camisas de times de futebol** utilizando o **Amazon SageMaker Canvas**, ferramenta de Machine Learning **no-code** da AWS.
 
 ---
 
